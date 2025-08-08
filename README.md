@@ -3,13 +3,13 @@
 ![SQLi Banner](https://img.shields.io/badge/Project-SQL%20Injection-red?style=flat-square)  
 _A hands-on ethical hacking project exploring SQL Injection vulnerabilities and prevention techniques._
 
-## 📌 Overview
+## Overview
 
 This project was part of the **DevTown Bootcamp** and focused on understanding, testing, and mitigating one of the most dangerous web vulnerabilities — **SQL Injection (SQLi)**.
 
 As a **Computer Science student**, I joined the bootcamp not as a cybersecurity expert, but as a developer who realized that building secure applications requires a deep understanding of the threats they face.
 
-## 🧠 What I Learned
+##  What I Learned
 
 - What is SQL Injection and how it works
 - Types of SQLi:  
@@ -28,14 +28,14 @@ As a **Computer Science student**, I joined the bootcamp not as a cybersecurity 
 - Automated exploitation with **SQLMap**
 - Security best practices to prevent SQLi
 
-## 🧪 Tools & Resources Used
+##  Tools & Resources Used
 
 - 🔗 **Vulnerable Test Website**: [http://testphp.vulnweb.com](http://testphp.vulnweb.com)
 - ⚙️ **SQLMap**: Automated SQLi testing tool  
 - 📚 MITRE ATT&CK Mapping (T1190)  
 - 🛡 OWASP Top 10 Injection Flaws
 
-## 🛡️ How to Prevent SQL Injection
+##  How to Prevent SQL Injection
 
 - Use **Prepared Statements (Parameterized Queries)**
 - Apply **Input Validation** and **Whitelisting**
@@ -49,7 +49,7 @@ As a **Computer Science student**, I joined the bootcamp not as a cybersecurity 
 - [`Devtown project_compressed.pdf`](./Devtown%20project_compressed.pdf): Full project report
 - [`README.md`](./README.md): This file
 
-## 🚀 Key Takeaway
+##  Key Takeaway
 
 > "Cybersecurity isn’t just for ethical hackers — every developer should know how to break things, so they can build them better."
 
