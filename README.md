@@ -3,6 +3,9 @@
 ![SQLi Banner](https://img.shields.io/badge/Project-SQL%20Injection-red?style=flat-square)  
 _A hands-on ethical hacking project exploring SQL Injection vulnerabilities and prevention techniques._
 
+
+![Preview of Report](https://github.com/SaraArif6198/SQL-Injection-Report/raw/main/First%20page.png)
+
 ## Overview
 
 This project was part of the **DevTown Bootcamp** and focused on understanding, testing, and mitigating one of the most dangerous web vulnerabilities — **SQL Injection (SQLi)**.
